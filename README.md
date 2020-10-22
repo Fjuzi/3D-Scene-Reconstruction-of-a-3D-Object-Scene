@@ -1,6 +1,9 @@
 # 3D-Scene-Reconstruction-of-a-3D-Object-Scene
 3D Scene reconstruction from multiple images and camera calibration
 This repo contains a 3D reconstruction of a 3D object/scen. It includes the calibration of a camera, feature extraction and matching of feature points between the views, to computation the fundamental matrix between views to ob a 3D point cloud reconstruction. And finally it includes the representatin of the object geometric model over this point cloud.
+
+![alt text](https://github.com/Fjuzi/fjuzi.github.io/blob/master/dist/assets/img/vmmc.gif)
+
 The project is divided into multiple sections:
 
 ### Section 1: Obtention of the intrinsic parameters of a camera
